@@ -1,8 +1,4 @@
-# Shipt Tic Tac Toe
-
-Hello Shipt!
-
-Here is my submission for the mobile tic tac toe game. During the assessment, I had to make some assumptions and ran into some constraints that I will explain below. 
+# Tic Tac Toe
 
 Assumptions:
 I assumed Player 1 to be X and Player 2 to be O. 
